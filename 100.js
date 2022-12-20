@@ -1,0 +1,1 @@
+const nBonacciRatio = n => (n + Math.sqrt(n * n + 4)) / 2;

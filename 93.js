@@ -1,0 +1,1 @@
+const shifter = (s) => new Set(s.match(/\b[hinosxzmw]+\b/ig) || []).size;
